@@ -46,4 +46,36 @@ a:hover{
 .modal-body form h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-  
+
+/*______________CARD_____________________________*/
+
+/*______________BACKGROUNG_____________________*/
+
+.card-a{
+    margin: 15px;
+    margin-top: 43px;
+         margin-left: 58px;
+         border-radius: 15px;
+
+}
+.card-b{
+    margin: 15px;
+    margin-left: 578px;
+    margin-top: -482px;
+    border-radius: 15px;
+    
+}
+.card-c{
+    margin: 15px;
+    margin-left: 1100px;
+    margin-top: -481px;
+    border-radius: 15px;
+    
+}
+
+.card-img-top{
+    border-radius: 10px;
+}  
+.btn{
+    margin-left: 85px;
+}
