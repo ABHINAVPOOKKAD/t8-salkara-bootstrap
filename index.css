@@ -1,0 +1,49 @@
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+}
+    
+#navbarSupportedContent ul li   
+{
+    margin-left: 100px;
+    text-decoration: none;
+}
+#navbarSupportedContent ul li a{
+    border-radius: 10px;
+}
+a:hover{
+    background-color: orange;
+}
+/*.imgb{
+    border-radius: 10px;
+}
+.rectangle {
+    height: 50px;
+    width: 100px;
+    background-color:brown;
+    border-radius: 5px;
+    color: WHITE;
+    padding: 15px;
+    position: relative;
+    margin-top: -590px;
+    margin-left: 620px;
+}
+@media(max-width:800px){
+    .rectangle{
+        margin-left: 100px;
+    }
+}
+*/
+/*_________________modal___________________________*/
+.modal-body input{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+}
+.modal-body button{
+    margin-left: 166px;
+}
+.modal-body form h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+  
